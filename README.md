@@ -297,9 +297,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [github.com/yourusername]
+- **Project Lead**: Kaumarya Aggarwal
+- **Email**: kaumaryaaggarwal2016@gmail.com
+- **GitHub**: https://github.com/Kaumarya
 
 ## 🙏 Acknowledgments
 
